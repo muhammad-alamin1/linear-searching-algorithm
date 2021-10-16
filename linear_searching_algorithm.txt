@@ -1,0 +1,12 @@
+# Linear Search Algorithm
+
+
+Step-1: Suppose, Array-A is the number of elements N.
+Step-2: i = 0 .
+Step-3: Is i less than N (i < N). Then let's go to step-4. Otherwise let's go to step-7
+Step-4: Is A[i] and x equal to each other? If so, let's go to step-5.
+Step-5: return i. (Result: The desired element was found in position i)
+Step-6: Increase the value of i by 1 and let's go to step-3.
+Step-7: Suppose i =-1 and return i. (The element was not found)
+Step 8: Exit.
+
